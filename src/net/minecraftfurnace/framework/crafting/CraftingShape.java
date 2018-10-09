@@ -1,4 +1,4 @@
-package net.minecraftfurnace.crafting;
+package net.minecraftfurnace.framework.crafting;
 
 public enum CraftingShape {
     SHAPED,

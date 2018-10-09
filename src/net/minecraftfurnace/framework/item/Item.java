@@ -1,4 +1,4 @@
-package net.minecraftfurnace.item;
+package net.minecraftfurnace.framework.item;
 
 public class Item {
 
