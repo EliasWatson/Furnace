@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Furnace:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Furnace_jar</output-path>
+    <root id="archive" name="Furnace.jar">
+      <element id="module-output" name="Furnace" />
+    </root>
+  </artifact>
+</component>

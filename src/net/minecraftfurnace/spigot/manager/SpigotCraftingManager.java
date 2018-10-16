@@ -1,6 +1,5 @@
 package net.minecraftfurnace.spigot.manager;
 
-import net.minecraftfurnace.framework.crafting.CraftingShape;
 import net.minecraftfurnace.framework.crafting.WorkbenchRecipe;
 import net.minecraftfurnace.framework.manager.CraftingManager;
 import org.bukkit.Bukkit;

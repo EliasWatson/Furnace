@@ -1,0 +1,4 @@
+name: Furnace
+version: 0.1
+author: Assossa
+main: net.minecraftfurnace.spigot.FurnaceSpigotPlugin
