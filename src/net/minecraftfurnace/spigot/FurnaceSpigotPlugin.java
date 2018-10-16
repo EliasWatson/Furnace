@@ -14,7 +14,9 @@ public class FurnaceSpigotPlugin extends JavaPlugin {
 
         FurnaceModLoader.createModFolder();
         for(File f : FurnaceModLoader.findMods()) {
-            System.out.println("[Furnace] Found mod: " + f.getName());
+            if(FurnaceModLoader.validateMod(f.getName())) {
+                System.out.println("[Furnace] Found mod: " + f.getName());
+            }
         }
     }
 
